@@ -1,6 +1,6 @@
 # wgpu Graphics Programming in Rust: Step-by-Step 
 
-*wgpu* is based on the WebGPU standard. It is a cross-platform, safe, Rust graphics API, and it runs natively on Vulkan, Metal, DirectX 12, DirectX 11, and OpenGLES, as well as on the web via WebAssembly. I create this YouTube video series about *wgpu* programming in Rust and present an easy-to-follow *wgpu* application in each video episode. 
+*wgpu* is based on the WebGPU standard. It is a cross-platform, safe, pure Rust graphics API, and it runs natively on Vulkan, Metal, DirectX 12, DirectX 11, and OpenGLES, as well as on the web via WebAssembly. I create this YouTube video series about *wgpu* programming in Rust and present an easy-to-follow *wgpu* application in each video episode. 
 This repository contains all the code examples used in this video series.
 
 This YouTube video series uses the real-world sample apps to explain the *wgpu** basics, shader program, GPU buffer, and rendering pipeline. From this video series, you will learn how to create primitives and simple objects in Rust *wgpu*. As you gradually progress through the video series, you will get to grips with advanced *wgpu** topics, including 3D transformation, lighting calculation, colormaps, and textures. At the same time, you will learn how to create advanced 3D *wgpu** objects, including various 3D wireframes, 3D shapes, simple and parametric 3D surfaces with 
