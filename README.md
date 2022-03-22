@@ -25,7 +25,7 @@ Please see details about these books at https://drxudotnet.com.
 
 Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www.youtube.com/c/PracticalProgrammingWithDrXu)
 
-<br />
+
 
 ### Video Series for Rust wgpu Step-by-Step:
 
