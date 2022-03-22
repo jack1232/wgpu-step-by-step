@@ -4,3 +4,6 @@
 [submodule "wgpu03"]
 	path = wgpu03
 	url = https://github.com/jack1232/wgpu03
+[submodule "wgpu04"]
+	path = wgpu04
+	url = https://github.com/jack1232/wgpu04
