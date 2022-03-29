@@ -32,8 +32,8 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 1. Introduction to *wgpu*: https://youtu.be/i6WMfY-XTZE
 2. Set up Development Environment: https://youtu.be/LULQtc5CUJ8 
 3. Create a Colorful Triangle: https://youtu.be/hOojFOho_lI
-4. Creare Point and Line Primitives: https://youtu.be/-QXj0UexUw0
-5. Creat Triangle Primitives: https://youtu.be/TFVjMmSRDxs
+4. Create Point and Line Primitives: https://youtu.be/-QXj0UexUw0
+5. Create Triangle Primitives: https://youtu.be/TFVjMmSRDxs
 
 <br />
 
