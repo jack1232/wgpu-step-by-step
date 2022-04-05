@@ -34,6 +34,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 3. Create a Colorful Triangle: https://youtu.be/hOojFOho_lI
 4. Create Point and Line Primitives: https://youtu.be/-QXj0UexUw0
 5. Create Triangle Primitives: https://youtu.be/TFVjMmSRDxs
+6. Create a Square using GPU Buffer: https://youtu.be/GIEjzG2wwJY
 
 <br />
 
