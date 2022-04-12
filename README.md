@@ -35,6 +35,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 4. Create Point and Line Primitives: https://youtu.be/-QXj0UexUw0
 5. Create Triangle Primitives: https://youtu.be/TFVjMmSRDxs
 6. Create a Square using GPU Buffer: https://youtu.be/GIEjzG2wwJY
+7. Create a 3D Cube: https://youtu.be/ai53VFoqdJQ
 
 <br />
 
