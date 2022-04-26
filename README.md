@@ -37,6 +37,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 6. Create a Square using GPU Buffer: https://youtu.be/GIEjzG2wwJY
 7. Create a 3D Cube: https://youtu.be/ai53VFoqdJQ
 8. Animate a 3D Cube: https://youtu.be/9SsjhrxH08o
+9. Light Model: https://youtu.be/YF6VepGkUJs
 
 <br />
 
