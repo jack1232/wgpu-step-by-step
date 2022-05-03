@@ -38,6 +38,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 7. Create a 3D Cube: https://youtu.be/ai53VFoqdJQ
 8. Animate a 3D Cube: https://youtu.be/9SsjhrxH08o
 9. Light Model: https://youtu.be/YF6VepGkUJs
+10. Cube with Lighting: https://youtu.be/mPbsgFYb2z8
 
 <br />
 
