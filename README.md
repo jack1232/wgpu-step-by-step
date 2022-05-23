@@ -41,6 +41,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 10. Cube with Lighting: https://youtu.be/mPbsgFYb2z8
 11. Sphere with Lighting: https://youtu.be/2bW_uCOKiKc
 12. Torus with Lighting: https://youtu.be/CC3stU82iZg
+13. Colormap: https://youtu.be/D0wrVy7lAcg
 
 <br />
 
