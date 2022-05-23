@@ -28,3 +28,6 @@
 [submodule "wgpu11"]
 	path = wgpu11
 	url = https://github.com/jack1232/wgpu11
+[submodule "wgpu12"]
+	path = wgpu12
+	url = https://github.com/jack1232/wgpu12
