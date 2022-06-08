@@ -10,12 +10,14 @@ By the end of this video series, you will have the solid skill you need to build
 
 <br />
 
-## Books on Rust wgpu and WebGPU
+## Books on Rust wgpu, wgpu-py, and WebGPU
 Most of the examples used in this video series are taken from my recently published book **"Practical GPU Graphics with wgpu and Rust"**. 
+
+I just published a new book of the Python version of WebGPU: **"Practical GPU Graphics with wgpu-py and Python"**.
 
 I also published a new book **"Practical WeGPU Graphics"**.
 
-[![wgpu Rust Book](assets/wgpu01.png)](https://drxudotnet.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![WebGPU Book](assets/webgpu01.png)](https://drxudotnet.com)
+[![wgpu Rust Book](assets/wgpu01.png)](https://drxudotnet.com)&nbsp;&nbsp;&nbsp; [![wgpu-py Book](assets/wgpupy01.png)](https://drxudotnet.com)&nbsp;&nbsp;&nbsp; [![WebGPU Book](assets/webgpu01.png)](https://drxudotnet.com)
 
 Please see details about these books at https://drxudotnet.com. 
 
