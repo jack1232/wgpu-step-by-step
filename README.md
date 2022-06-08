@@ -42,6 +42,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 11. Sphere with Lighting: https://youtu.be/2bW_uCOKiKc
 12. Torus with Lighting: https://youtu.be/CC3stU82iZg
 13. Colormap: https://youtu.be/D0wrVy7lAcg
+14. 3D Simple Surfaces: https://youtu.be/XfVeMrumi7o
 
 <br />
 
