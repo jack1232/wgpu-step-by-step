@@ -46,6 +46,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 13. Colormap: https://youtu.be/D0wrVy7lAcg
 14. 3D Simple Surfaces: https://youtu.be/XfVeMrumi7o
 15. 3D Sinc Surface: https://youtu.be/O7xIQudPKmA
+16. 3D Peaks Surface: https://youtu.be/6d5l2huTm9E
 
 <br />
 
