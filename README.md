@@ -48,6 +48,7 @@ Please visit my YouTube channel: [Practical Programming with Dr. Xu](https://www
 15. 3D Sinc Surface: https://youtu.be/O7xIQudPKmA
 16. 3D Peaks Surface: https://youtu.be/6d5l2huTm9E
 17. Parametric 3D Surfaces: https://youtu.be/ODLGjzR9mWY
+18. Parametric 3D Surface Examples: https://youtu.be/AjDU7eegt4g
 
 <br />
 
