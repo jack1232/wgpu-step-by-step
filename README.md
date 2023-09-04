@@ -1,12 +1,12 @@
 # wgpu Graphics Programming in Rust: Step-by-Step 
 
-*wgpu* is based on the WebGPU standard. It is a cross-platform, safe, pure Rust graphics API, and it runs natively on Vulkan, Metal, DirectX 12, DirectX 11, and OpenGLES, as well as on the web via WebAssembly. I create this YouTube video series about *wgpu* programming in Rust and present an easy-to-follow *wgpu* application in each video episode. 
-This repository contains all the code examples used in this video series.
+<h3 style="color:red">Good news: all code examples have been updated from wgpu 0.13.1 to 0.17.</h3>
 
-This YouTube video series uses the real-world sample apps to explain the *wgpu** basics, shader program, GPU buffer, and rendering pipeline. From this video series, you will learn how to create primitives and simple objects in Rust *wgpu*. As you gradually progress through the video series, you will get to grips with advanced *wgpu** topics, including 3D transformation, lighting calculation, colormaps, and textures. At the same time, you will learn how to create advanced 3D *wgpu** objects, including various 3D wireframes, 3D shapes, simple and parametric 3D surfaces with 
-colormaps and textures, 3D surface plots, as well as 2D and 3D fractal graphics described by complex functions. In addition, you will explore new *wgpu* features, such as compute shader and storage buffer, and how to use them to simulate large particle systems.
+*wgpu* is based on the WebGPU standard. It is a cross-platform, safe, pure Rust graphics API that runs natively on Vulkan, Metal, DirectX 12, DirectX 11, and OpenGLES, as well as on the web via WebAssembly. I have created a YouTube video series about *wgpu* programming in Rust, presenting an easy-to-follow wgpu application in each video episode. This repository contains all the code examples used in this video series.
 
-By the end of this video series, you will have the solid skill you need to build your own GPU-accelerated graphics and computing on native devices and the web with the *wgpu* API in Rust. 
+In this YouTube video series, I use real-world sample apps to explain the basics of wgpu, including shader programs, GPU buffers, and rendering pipelines. Throughout the series, you will learn how to create primitives and simple objects in Rust with wgpu. As you progress, you will delve into advanced wgpu topics, such as 3D transformations, lighting calculations, colormaps, and textures. Simultaneously, you will discover how to create advanced 3D wgpu objects, including various 3D wireframes, 3D shapes, simple and parametric 3D surfaces with colormaps and textures, and 3D surface plots. Additionally, you will explore new wgpu features, such as compute shaders and storage buffers, and learn how to use them to 3D graphics.
+
+By the end of this video series, you will have the solid skills you need to build your own GPU-accelerated graphics and computing applications on native devices and the web using the wgpu API in Rust. 
 
 <br />
 
