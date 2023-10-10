@@ -1,6 +1,8 @@
 # wgpu Graphics Programming in Rust: Step-by-Step 
 
-<h2>$$\textcolor{red}{\text{Good news: all code examples have been updated from wgpu 0.13.1 to 0.17.}}$$</h2>
+$$\textcolor{red}{\text{Good news: all code examples have been updated from wgpu 0.13.1 to 0.17.}}$$
+
+
 
 *wgpu* is based on the WebGPU standard. It is a cross-platform, safe, pure Rust graphics API that runs natively on Vulkan, Metal, DirectX 12, DirectX 11, and OpenGLES, as well as on the web via WebAssembly. I have created a YouTube video series about *wgpu* programming in Rust, presenting an easy-to-follow wgpu application in each video episode. This repository contains all the code examples used in this video series.
 
