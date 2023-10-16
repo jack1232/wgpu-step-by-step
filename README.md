@@ -16,7 +16,7 @@ By the end of this video series, you will have the solid skills you need to buil
 Most of the examples used in this video series are taken from my recently published books **"Practical GPU Graphics with wgpu and Rust"** and **"WGPU by Examples"**
 
 [![wgpu Rust Book](assets/wgpu01.png)](https://drxudotnet.com)&nbsp;&nbsp;&nbsp; 
-<img src="assets/wgpuexamples01.png" width="250">
+<img src="assets/wgpuexamples01.png" width="250" height="308">
 
 Please see details about these books at https://drxudotnet.com. 
 
